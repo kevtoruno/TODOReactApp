@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TODOReactApp/static/css/main.fa0eeb79.css",
+    "main.js": "/TODOReactApp/static/js/main.111584ce.js",
+    "index.html": "/TODOReactApp/index.html",
+    "static/media/delete.svg": "/TODOReactApp/static/media/delete.67697f56fd2f149bc9515a879062ad5c.svg",
+    "static/media/check.svg": "/TODOReactApp/static/media/check.23109d14544b9bb9b3d5d4e65ea13701.svg",
+    "main.fa0eeb79.css.map": "/TODOReactApp/static/css/main.fa0eeb79.css.map",
+    "main.111584ce.js.map": "/TODOReactApp/static/js/main.111584ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa0eeb79.css",
+    "static/js/main.111584ce.js"
+  ]
+}
